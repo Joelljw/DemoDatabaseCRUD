@@ -8,9 +8,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-/**
- * Created by 15056194 on 23/5/2017.
- */
 
 public class EditActivity extends AppCompatActivity {
 
